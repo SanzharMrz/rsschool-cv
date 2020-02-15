@@ -2,7 +2,7 @@
 ### Machine Learning Engineer at IICT
 
 ## About
-Passionate about all things Machine Learning and their deployment
+Passionate about all things Machine Learning and web services.
 
 ## Contact info
 - [Linkedin profile](https://www.linkedin.com/in/sanzharmrz/)
